@@ -1,0 +1,13 @@
+//Probablistic Analysis and Randomized Algorithms
+
+* Probablity is an important concept when trying to analyze algorithms, importantly randomized algorithms. *
+
+//The Hiring Problem
+
+= Decision: Hire or Not Hire
+= Must have best applicant hired at all times
+= When better applicant comes, fire current, hire new
+= The problem requries to estimate cost for agency and hiring costs
+
+
+
